@@ -1,0 +1,210 @@
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.row{
+    display: flex;
+}
+
+.container{
+    width: 70%;
+    margin: 5px auto;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+.border{
+    border: 5px solid gray;
+    margin: 10px;
+}
+
+.border .up .row .col-12 .one{
+    height: 100px;
+   background-color: #52A7F9;
+   
+}
+
+.border .up .row .col-12 .one h1{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 30px;
+    padding-left: 30px;
+   
+}
+
+
+
+
+
+
+
+
+.up-left{
+    height: 265px;
+    background-color: #6FC041;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 110px;
+}
+
+.up-left h2{
+    color: white;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+
+
+
+
+
+
+
+.up-right{
+    margin-left: 5px;
+    height: 265px;
+    background-color:#B36AE2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.up-right h2{
+    color: white;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+   
+}
+
+
+
+
+
+
+
+
+.down-left{
+    height: 265px;
+    background-color: #F3901A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 110px;
+    margin-right: -47px;
+}
+
+.down-left h2{
+    color: white;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+   
+}
+
+
+
+
+
+
+
+.down-right{
+    height: 265px;
+    background-color: #F3901A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 52px;
+
+}
+
+.down-right h2{
+    color: white;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+
+
+
+
+.border .footer{
+    background-color:#0365C0;
+    height: 70px;
+}
+
+.footer h1{
+    color: white;
+    font-size: 35px;
+    padding: 16px;
+    margin-left: 15px;
+    font-family:'Courier New', Courier, monospace;
+ }
+

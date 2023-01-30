@@ -1,0 +1,139 @@
+.border{
+    border: 5px solid black;
+    height: 720px;
+    justify-content: center;
+}
+
+
+
+.border .up .row .col-12 .one{
+    margin-top: 20px;
+    height: 50px;
+   background-color: orange;
+   margin-left: 28px;
+   
+}
+
+.container{
+    width: 98%;
+}
+
+.row{
+    display: flex;
+}
+
+
+
+.border .down .two {
+    gap: 10px;
+    display: flex;
+    margin-top: 20px;
+    height: 20px;
+    background-color: black;
+    margin-left: 28px;
+   
+    
+}
+
+#main .left {
+    height: 480px;
+    background-color: #FFA600;
+}
+
+#main .right {
+    margin-left: 20px;
+}
+
+#main .right .up {
+    height: 229px;
+    margin-bottom: 20px;
+    background-color: #FFA600;
+}
+
+#main .right .down {
+    height: 229px;
+    background-color: #FFA600;
+}
+
+#main .list ul li {
+    height: 80px;
+    background-color: black;
+    list-style: none;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#main .container .row{
+    margin-top: 20px;
+    margin-left: 14px;
+}
+
+.border .up .row .col-12 .end{
+    margin-top: 20px;
+    height: 50px;
+   background-color: orange;
+   margin-left: 28px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
